@@ -10,10 +10,10 @@ class DE implements LangInterface
     use SearchTrait;
 
     public const TRANSLATES = [
-        'Deleting' => 'Удаление',
-        'Not found: %s' => 'Не найдено: %s',
-        'User not found' => 'Пользователь не найден',
-        'Not found [[%s]] for the [[%s]] parameter.' => 'Не найден [[%s]] для параметра [[%s]].',
+        'Deleting' => 'Löschen',
+        'Not found: %s' => 'Nicht gefunden: %s',
+        'User not found' => 'Benutzer nicht gefunden',
+        'Not found [[%s]] for the [[%s]] parameter.' => 'Nicht gefunden [[%s]] für den Parameter [[%s]].',
         'Template not found.' => 'Шаблон не найден.',
         'No [[%s]] is specified for the [[%s]] parameter.' => 'Не указан [[%s]] для параметра [[%s]].',
         'Parametr [[%s]] is required in [[%s]] function.' => 'Параметр [[%s]] является обязательным в функции [[%s]].',
