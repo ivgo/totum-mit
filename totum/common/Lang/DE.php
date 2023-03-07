@@ -55,8 +55,8 @@ class DE implements LangInterface
         'The table [[%s]] has no n-sorting.' => 'Tabelle [[%s]] hat keine n-Sortierung.',
         'The %s should be here.' => 'Die %s sollten hier stehen.',
 
-        'Parametr [[%s]] is required and should be a number.' => 'Параметр [[%s]] обязателен и должен быть числом.',
-        'Parametr [[%s]] is required and should be a string.' => 'Параметр [[%s]] обязателен и должен быть строкой.',
+        'Parametr [[%s]] is required and should be a number.' => 'Der Parameter [[%s]] ist zwingend erforderlich und muss eine Zahl sein.',
+        'Parametr [[%s]] is required and should be a string.' => 'Der Parameter [[%s]] ist zwingend erforderlich und muss eine Zeichenkette sein.',
         'The %s parameter is required and must start with %s.' => 'Параметр %s обязателен и должен начитаться с %s.',
         'The %s parameter should not be an array.' => 'Параметр %s не должен быть массивом.',
         'The %s field value should not be an array.' => 'Значение поля %s не должено быть массивом.',
