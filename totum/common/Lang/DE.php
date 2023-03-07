@@ -23,12 +23,12 @@ class DE implements LangInterface
         'Password doesn\'t match.' => 'Das Passwort passt nicht.',
         'Scheme string is empty.' => 'Die Zeile des Schemas ist leer.',
         'The function is only available for cycles tables.' => 'Die Funktion ist nur für Zyklustabellen verfügbar.',
-        'Using a comparison type in a filter of list/row is not allowed' => 'Использование типа сравнения при фильтрации list/row не разрешено',
-        'Using a comparison type in a search in list/row is not allowed' => 'Использование типа сравнения при поиске в list/row не разрешено',
+        'Using a comparison type in a filter of list/row is not allowed' => 'Verwendung des Vergleichstyps beim Filtern von Liste/Zeile ist nicht zulässig',
+        'Using a comparison type in a search in list/row is not allowed' => 'Die Verwendung des Vergleichstyps in Listen-/Zeilensuchen ist nicht zulässig',
 
-        'Field data type error' => 'Неверный тип данных в поле',
+        'Field data type error' => 'Falscher Datentyp im Feld',
 
-        'Not correct field name in query to [[%s]] table.' => 'Некорректное имя поля в запросе к таблице [[%s]].',
+        'Not correct field name in query to [[%s]] table.' => 'Falscher Feldname in Abfrage für Tabelle [[%s]].',
 
         'You see the contents of the table calculated and saved before the last transaction with the error.' => 'Вы видите содержимое таблицы, вычисленное и сохраненное перед последней транзакцией с ошибкой.',
         'System error. Action type not specified.' => 'Системная ошибка. Не указан тип действия.',
