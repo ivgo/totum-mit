@@ -78,11 +78,11 @@ class DE implements LangInterface
         'Function [[linkToEdit]] not available for [[%s]] field type.' => 'Die Funktion [[linkToEdit]] ist für den Feldtyp [[%s]] nicht verfügbar.',
         'The %s field must be numeric.' => 'Das Feld %s muss numerisch sein.',
         'The value of the %s field must be numeric.' => 'Der Wert des Feldes %s muss numerisch sein.',
-        'For selecting by numeric field [[%s]] you must pass numeric values' => 'Для выборки по числовому полю [[%s]] должно быть передано число',
+        'For selecting by numeric field [[%s]] you must pass numeric values' => 'Es muss eine Zahl übergeben werden, um das numerische Feld [[%s]] abzutasten',
 
 
-        'The value of %s field must match the format: %s' => 'Значение поля %s должно соответствовать формату: %s',
-        'The row with %s was not found in table %s.' => 'Строка с %s не найдена в таблице %s.',
+        'The value of %s field must match the format: %s' => 'Der Wert des Feldes %s muss das folgende Format haben: %s',
+        'The row with %s was not found in table %s.' => 'Die Zeile mit %s wurde in der Tabelle %s nicht gefunden.',
         'Row not found' => 'Строка не найдена',
         'Row %s not found' => 'Строка %s не найдена',
         'The row %s does not exist or is not available for your role.' => 'Строка %s не существует или недоступна для вашей роли.',
