@@ -15,8 +15,8 @@ class DE implements LangInterface
         'User not found' => 'Benutzer nicht gefunden',
         'Not found [[%s]] for the [[%s]] parameter.' => 'Nicht gefunden [[%s]] für den Parameter [[%s]].',
         'Template not found.' => 'Vorlage nicht gefunden.',
-        'No [[%s]] is specified for the [[%s]] parameter.' => 'Не указан [[%s]] для параметра [[%s]].',
-        'Parametr [[%s]] is required in [[%s]] function.' => 'Параметр [[%s]] является обязательным в функции [[%s]].',
+        'No [[%s]] is specified for the [[%s]] parameter.' => 'Keine Angabe [[%s]] für den Parameter [[%s]].',
+        'Parametr [[%s]] is required in [[%s]] function.' => 'Der Parameter [[%s]] ist in der Funktion [[%s]] zwingend erforderlich.',
 
         'The function is only available for the Creator role.' => 'Функция доступна только роли Создатель.',
         'The function is not available to you.' => 'Функция вам недоступна.',
