@@ -30,8 +30,8 @@ class DE implements LangInterface
 
         'Not correct field name in query to [[%s]] table.' => 'Falscher Feldname in Abfrage für Tabelle [[%s]].',
 
-        'You see the contents of the table calculated and saved before the last transaction with the error.' => 'Вы видите содержимое таблицы, вычисленное и сохраненное перед последней транзакцией с ошибкой.',
-        'System error. Action type not specified.' => 'Системная ошибка. Не указан тип действия.',
+        'You see the contents of the table calculated and saved before the last transaction with the error.' => 'Sie sehen den Inhalt der Tabelle, die vor der letzten Transaktion mit dem Fehler berechnet und gespeichert wurde.',
+        'System error. Action type not specified.' => 'Systemfehler. Der Aktionstyp ist nicht angegeben.',
         'Field [[%s]] of table [[%s]] in row with id [[%s]] contains non-numeric data' => 'Поле [[%s]] таблицы [[%s]] в строке с id [[%s]] содержит нечисловую информацию',
         'Scheme source not defined.' => 'Не определен источник схемы.',
         'Fill in the parameter [[%s]].' => 'Заполните параметр [[%s]].',
