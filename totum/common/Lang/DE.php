@@ -57,27 +57,27 @@ class DE implements LangInterface
 
         'Parametr [[%s]] is required and should be a number.' => 'Der Parameter [[%s]] ist zwingend erforderlich und muss eine Zahl sein.',
         'Parametr [[%s]] is required and should be a string.' => 'Der Parameter [[%s]] ist zwingend erforderlich und muss eine Zeichenkette sein.',
-        'The %s parameter is required and must start with %s.' => 'Параметр %s обязателен и должен начитаться с %s.',
-        'The %s parameter should not be an array.' => 'Параметр %s не должен быть массивом.',
-        'The %s field value should not be an array.' => 'Значение поля %s не должено быть массивом.',
-        'The value of the number field should not be an array.' => 'Значение поля число не должно быть массивом.',
-        'The %s parameter must be a number.' => 'Параметр %s должен быть числом.',
-        'The value of key %s is not a number.' => 'Значение ключа %s не является числом.',
+        'The %s parameter is required and must start with %s.' => 'Der Parameter %s ist zwingend erforderlich und muss mit %s beginnen.',
+        'The %s parameter should not be an array.' => 'Der Parameter %s sollte kein Array sein.',
+        'The %s field value should not be an array.' => 'Der Wert des Feldes %s darf kein Array sein.',
+        'The value of the number field should not be an array.' => 'Der Wert des Zahlenfeldes darf kein Array sein.',
+        'The %s parameter must be a number.' => 'Der Parameter %s muss eine Zahl sein.',
+        'The value of key %s is not a number.' => 'Der Schlüsselwert %s ist keine Zahl.',
 
-        'The module is not available for this host.' => 'Модуль недоступен для этого хоста.',
+        'The module is not available for this host.' => 'Das Modul ist für diesen Host nicht verfügbar.',
 
-        'The [[%s]] parameter is not correct.' => 'Параметр [[%s]] не корректен.',
-        'Comment field contains incorrect type data as a value.' => 'Поле комментария содержит в качестве значения данные неправильного типа.',
+        'The [[%s]] parameter is not correct.' => 'Der Parameter [[%s]] ist nicht korrekt.',
+        'Comment field contains incorrect type data as a value.' => 'Das Kommentarfeld enthält den falschen Datentyp als Wert.',
 
-        'The [[%s]] parameter must be plain row/list without nested row/list.' => 'Параметр [[%s]] должен быть простым row/list без вложенных row/list.',
+        'The [[%s]] parameter must be plain row/list without nested row/list.' => 'Der Parameter [[%s]] sollte eine einfache Zeile/Liste ohne verschachtelte Zeilen/Listen sein.',
 
 
-        'Calling a third-party script.' => 'Обращение к стороннему скрипту.',
-        'Not for the temporary table.' => 'Не для временной таблицы.',
-        'The [[%s]] field is not found in the [[%s]] table.' => 'Поле [[%s]] не найдено в таблице [[%s]].',
-        'Function [[linkToEdit]] not available for [[%s]] field type.' => 'Функция [[linkToEdit]] не доступна для типа поля [[%s]].',
-        'The %s field must be numeric.' => 'Поле %s должно быть числовым.',
-        'The value of the %s field must be numeric.' => 'Значение поля %s должно быть числовым.',
+        'Calling a third-party script.' => 'Verweis auf ein Skript eines Drittanbieters.',
+        'Not for the temporary table.' => 'Nicht für den Temporere Tabelle.',
+        'The [[%s]] field is not found in the [[%s]] table.' => 'Das Feld [[%s]] wird in der Tabelle [[%s]] nicht gefunden.',
+        'Function [[linkToEdit]] not available for [[%s]] field type.' => 'Die Funktion [[linkToEdit]] ist für den Feldtyp [[%s]] nicht verfügbar.',
+        'The %s field must be numeric.' => 'Das Feld %s muss numerisch sein.',
+        'The value of the %s field must be numeric.' => 'Der Wert des Feldes %s muss numerisch sein.',
         'For selecting by numeric field [[%s]] you must pass numeric values' => 'Для выборки по числовому полю [[%s]] должно быть передано число',
 
 
