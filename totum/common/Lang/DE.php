@@ -18,11 +18,11 @@ class DE implements LangInterface
         'No [[%s]] is specified for the [[%s]] parameter.' => 'Keine Angabe [[%s]] für den Parameter [[%s]].',
         'Parametr [[%s]] is required in [[%s]] function.' => 'Der Parameter [[%s]] ist in der Funktion [[%s]] zwingend erforderlich.',
 
-        'The function is only available for the Creator role.' => 'Функция доступна только роли Создатель.',
-        'The function is not available to you.' => 'Функция вам недоступна.',
+        'The function is only available for the Creator role.' => 'Die Funktion ist nur für die Rolle des Erstellers verfügbar.',
+        'The function is not available to you.' => 'Die Funktion ist für Sie nicht verfügbar.',
         'Password doesn\'t match.' => 'Das Passwort passt nicht.',
-        'Scheme string is empty.' => 'Строка схемы пуста.',
-        'The function is only available for cycles tables.' => 'Функция доступна только для таблиц циклов.',
+        'Scheme string is empty.' => 'Die Zeile des Schemas ist leer.',
+        'The function is only available for cycles tables.' => 'Die Funktion ist nur für Zyklustabellen verfügbar.',
         'Using a comparison type in a filter of list/row is not allowed' => 'Использование типа сравнения при фильтрации list/row не разрешено',
         'Using a comparison type in a search in list/row is not allowed' => 'Использование типа сравнения при поиске в list/row не разрешено',
 
