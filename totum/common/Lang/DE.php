@@ -143,16 +143,16 @@ class DE implements LangInterface
         'There must be two [[%s]] parameters in the [[%s]] function.' => 'Es müssen zwei Parameter [[%s]] in der [[%s]]-Funktion vorhanden sein.',
         'The [[%s]] parameter must be [[%s]].' => 'Der Parameter [[%s]] muss [[%s]] sein.',
         'The [[%s]] parameter must [[not]] be [[%s]].' => 'Der Parameter [[%s]] [[nicht]] muss [[%s]] sein.',
-        'The number of the [[%s]] must be equal to the number of [[%s]].' => 'Количество [[%s]] должен быть равно количеству [[%s]].',
-        'The [[%s]] parameter must be one type with [[%s]] parameter.' => 'Параметр [[%s]] должен быть одного типа с параметром [[%s]].',
+        'The number of the [[%s]] must be equal to the number of [[%s]].' => 'Die Anzahl der [[%s]] muss gleich der Anzahl der [[%s]] sein.',
+        'The [[%s]] parameter must be one type with [[%s]] parameter.' => 'Der Parameter [[%s]] muss vom gleichen Typ sein wie der Parameter [[%s]].',
 
-        'No characters selected for generation.' => 'Не выбраны символы для генерации.',
-        'For selecting by %s field should be passed only single value or list, not row' => 'Для выбора по %s полю должно передаваться только одно значение или list, а не row',
+        'No characters selected for generation.' => 'Die zu erzeugenden Symbole sind nicht ausgewählt.',
+        'For selecting by %s field should be passed only single value or list, not row' => 'Es sollte nur ein Wert oder eine Liste übertragen werden, um das Feld %s auszuwählen, nicht die Zeile',
 
-        'The value by %s key is not a row/list' => 'Значение по ключу %s - не row/list',
-        'The key must be an one value' => 'Ключ должен быть единичным значением',
+        'The value by %s key is not a row/list' => 'Der Schlüsselwert %s ist keine Zeile/Liste',
+        'The key must be an one value' => 'Der Schlüssel muss ein einzelner Wert sein',
 
-        'There is no NowField enabled in this type of code. We\'ll fix it - write us.' => 'В этом типе кода не подключен NowField. Мы исправимся - напишите нам.',
+        'There is no NowField enabled in this type of code. We\'ll fix it - write us.' => 'Bei dieser Art von Code ist kein NowField angeschlossen. Wir werden es korrigieren - mailen Sie uns.',
         '[[%s]] is available only for the calculation table in the cycle.' => '[[%s]] доступно только для расчетной таблицы в цикле.',
 
         'The ExecSSH function is disabled. Enable execSSHOn in Conf.php.' => 'Функция ExecSSH выключена. Подключите execSSHOn в Conf.php',
