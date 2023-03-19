@@ -172,44 +172,44 @@ class DE implements LangInterface
         'JSON generation error: [[%s]].' => 'JSON-Bildungsfehler: [[%s]].',
         'JSON parsing error: [[%s]].' => 'JSON-Parsing-Fehler: [[%s]].',
         'The code should return [[%s]].' => 'Der Code sollte [[%s]] zurückgeben.',
-        'The [[insert]] field should return list - Table [[%s]]' => 'Поле [[insert]] должно возвращать list  - Таблица [[%s]]',
-        'The [[insert]] field should return a list with unique values - Table [[%s]]' => 'Поле [[insert]] должно возвращать list с уникальными значениями  - Таблица [[%s]]',
-        'This value is not available for entry in field %s.' => 'Это значение не доступно для ввода в поле %s.',
+        'The [[insert]] field should return list - Table [[%s]]' => 'Das Feld [[insert]] sollte Liste - Tabelle [[%s]] zurückgeben.',
+        'The [[insert]] field should return a list with unique values - Table [[%s]]' => 'Das [[insert]]-Feld sollte eine Liste mit eindeutigen Werten zurückgeben - Tabelle [[%s]]',
+        'This value is not available for entry in field %s.' => 'Dieser Wert ist für die Eingabe in das Feld %s nicht verfügbar.',
 
-        'Format sections' => 'Секции форматирования',
+        'Format sections' => 'Formatierung der Abschnitte',
 
-        'Cron error' => 'Ошибка крона',
-        'The schema is not connected.' => 'Схема не подключена.',
-        'Error accessing the anonymous tables module.' => 'Ошибка доступа к модулю анонимных таблиц.',
+        'Cron error' => 'Cron Fehler',
+        'The schema is not connected.' => 'Der Schema ist nicht angeschlossen.',
+        'Error accessing the anonymous tables module.' => 'Zugriffsfehler auf das Modul anonyme Tabellen.',
 
         'Page processing time: %s sec.<br/>
     RAM: %sM. of %s.<br/>
-    Sql Schema: %s, V %s<br/>' => 'Время обработки страницы: %s сек.<br/>
-    Оперативная память: %sM. из %s.<br/>
-    Sql схема: %s, V %s<br/>',
+    Sql Schema: %s, V %s<br/>' => 'Bearbeitungszeit der Seite: %s sec.<br/>
+    ARBEITSSPEICHER: %sM.von %s.<br/>
+    Sql Schema: %s, V %s<br/>',
 
 
-        'Order field calculation errors' => 'Ошибки порядка расчета полей',
-        'in %s table in fields:' => 'в таблице %s в полях: ',
+        'Order field calculation errors' => 'Fehler in der Feldberechnungsreihenfolge',
+        'in %s table in fields:' => 'in der Tabelle %s in den Feldern: ',
 
-        'Settings for sending mail are not set.' => 'Настройки для отправки почты не заданы.',
-        'The path to ssh script %s is not set.' => 'Не задан путь к ssh скрипту %s.',
+        'Settings for sending mail are not set.' => 'Die Einstellungen für den E-Mail-Versand sind nicht festgelegt.',
+        'The path to ssh script %s is not set.' => 'Der Pfad zum ssh-Skript %s ist nicht festgelegt.',
 
-        'Request processing error.' => 'Ошибка обработки запроса.',
-        'Error generating JSON response to client [[%s]].' => 'Ошибка формирования JSON-ответа на клиент [[%s]].',
+        'Request processing error.' => 'Fehler bei der Bearbeitung der Anfrage.',
+        'Error generating JSON response to client [[%s]].' => 'Fehler beim Generieren der JSON-Antwort für den Client [[%s]].',
 
-        'Initialization error: [[%s]].' => 'Ошибка инициализации: [[%s]].',
-        'Header' => 'Хэдер',
-        'Footer' => 'Футер',
-        'Rows part' => 'Строчная часть',
-        'Filters' => 'Фильтры',
-        'Filter' => 'Фильтр',
-        'Row: id %s' => 'Строка: id %s',
-        'ID is empty' => 'ID пуст',
+        'Initialization error: [[%s]].' => 'Initialisierungsfehler: [[%s]].',
+        'Header' => 'Kopfzeile',
+        'Footer' => 'Fußzeile',
+        'Rows part' => 'Linearer Teil',
+        'Filters' => 'Filtern',
+        'Filter' => 'Filter',
+        'Row: id %s' => 'Zeile: id %s',
+        'ID is empty' => 'ID ist leer',
 
-        'User %s is not configured. Contact your system administrator.' => 'Пользователь %s не настроен. Обратитесь к администратору системы.',
-        'Table [[%s]] was changed. Update the table to make the changes.' => 'Таблица [[%s]] была изменена. Обновите таблицу для проведения изменений.',
-        'Table was changed' => 'Таблица была изменена',
+        'User %s is not configured. Contact your system administrator.' => 'Der Benutzer %s ist nicht konfiguriert. Wenden Sie sich an Ihren Systemadministrator.',
+        'Table [[%s]] was changed. Update the table to make the changes.' => 'Die Tabelle [[%s]] wurde geändert. Aktualisieren Sie die Tabelle, um die Änderungen auszuführen.',
+        'Table was changed' => 'Die Tabelle wurde geändert',
         'The anchor field settings are incorrect.' => 'Настройки якорного поля заданы неверно.',
         'Field type is not defined.' => 'Тип поля не определен.',
         'Table type is not defined.' => 'Тип таблицы не определен.',
