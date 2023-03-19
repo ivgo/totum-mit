@@ -243,9 +243,9 @@ class DE implements LangInterface
 
 
         'Date format error: [[%s]].' => 'Das Datumsformat ist falsch: [[%s]].',
-        '[[%s]] format error: [[%s]].' => 'Формат [[%s]] неверен: [[%s]].',
-        '[[%s]] is reqired.' => '[[%s]] обязателен.',
-        'Settings field.' => 'Поле настроек.',
+        '[[%s]] format error: [[%s]].' => 'Das Format [[%s]] ist falsch: [[%s]].',
+        '[[%s]] is reqired.' => '[[%s]] ist zwingend erforderlich.',
+        'Settings field.' => 'Feld für die Einstellung.',
         'You cannot create a [[footer]] field for [[non-calculated]] tables.' => 'Нельзя создать поле [[футера]] [[не для рассчетных]] таблиц.',
         'File > ' => 'Файл больше ',
         'File not received. May be too big.' => 'Файл не получен. Возможно, слишком большой.',
