@@ -153,15 +153,15 @@ class DE implements LangInterface
         'The key must be an one value' => 'Der Schlüssel muss ein einzelner Wert sein',
 
         'There is no NowField enabled in this type of code. We\'ll fix it - write us.' => 'Bei dieser Art von Code ist kein NowField angeschlossen. Wir werden es korrigieren - mailen Sie uns.',
-        '[[%s]] is available only for the calculation table in the cycle.' => '[[%s]] доступно только для расчетной таблицы в цикле.',
+        '[[%s]] is available only for the calculation table in the cycle.' => '[[%s]] ist nur für die Berechnungstabelle in der Schleife verfügbar.',
 
-        'The ExecSSH function is disabled. Enable execSSHOn in Conf.php.' => 'Функция ExecSSH выключена. Подключите execSSHOn в Conf.php',
-        'Ssh:true in exec function is disabled. Enable execSSHOn in Conf.php.' => 'Параметр ssh:true выключен. Подключите execSSHOn в Conf.php',
-        'The [[%s]] parameter has not been set in this code.' => 'Параметр [[%s]] не был установлен в этом коде.',
-        'All list elements must be lists.' => 'Все элементы списка должны быть списками.',
-        'None of the elements of the %s parameter array must be a list.' => 'Ни один из элементов массива параметра %s не должен быть списком.',
+        'The ExecSSH function is disabled. Enable execSSHOn in Conf.php.' => 'ie Funktion ExecSSH ist deaktiviert. Einbindung von execSSHOn in Conf.php',
+        'Ssh:true in exec function is disabled. Enable execSSHOn in Conf.php.' => 'Der Parameter ssh:true ist deaktiviert. execSSHOn in Conf.php einbinden',
+        'The [[%s]] parameter has not been set in this code.' => 'Der Parameter [[%s]] wurde in diesem Code nicht gesetzt.',
+        'All list elements must be lists.' => 'Alle Listenelemente müssen Listen sein.',
+        'None of the elements of the %s parameter array must be a list.' => 'Keines der Elemente des %s-Parameterarrays darf eine Liste sein.',
 
-        'Parameter %s must contain list of numbers' => 'Параметр %s должен содержать список чисел',
+        'Parameter %s must contain list of numbers' => 'Der Parameter %s sollte eine Liste von Zahlen enthalten',
 
         'The array element does not fit the filtering conditions - the value is not a list.' => 'Элемент массива не соответствует условиям фильтрации - значение не list.',
         'The array element does not fit the filtering conditions - [[item]] is not found.' => 'Элемент массива не соответствует условиям фильтрации - [[item]] не найден.',
